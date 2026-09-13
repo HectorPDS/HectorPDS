@@ -53,3 +53,4 @@ Mi objetivo es comenzar mi carrera profesional como Administrador de Sistemas Ju
 ### Contacto
 
 - Email: hectorpdsec@gmail.com
+- LinkedIn: www.linkedin.com/in/hector-pinto-diaz-338976436
