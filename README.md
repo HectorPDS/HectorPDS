@@ -1,16 +1,55 @@
-## Hi there 👋
+# ¡Hola! Soy Hector
 
-<!--
-**HectorPDS/HectorPDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudiante de Administración de Sistemas Informáticos en Red (ASIR)
+- Formación previa en Sistemas Microinformáticos y Redes (SMR)
+- Orientado a la Administración de Sistemas y Ciberseguridad
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+
+Soy estudiante de ASIR con formación previa en SMR y experiencia de prácticas en empresa dentro del área de sistemas.
+
+Actualmente estoy ampliando mis conocimientos en administración de servidores, seguridad en redes y automatización de tareas con scripts.
+
+Mi objetivo es comenzar mi carrera profesional como Administrador de Sistemas Junior o en áreas de Ciberseguridad, aplicando buenas prácticas operativas y de seguridad en entornos reales.
+
+---
+
+### Tecnologías
+
+- Linux
+- Windows Server & Active Directory
+- Bash & Python
+- Redes
+- Docker
+- Git & GitHub
+
+---
+
+### Formación
+
+- Administración de Sistemas Informáticos en Red (ASIR) — En curso
+- Sistemas Microinformáticos y Redes (SMR)
+
+---
+
+### Actualmente estoy trabajando en
+
+- Securización y bastionado de servidores
+- Automatización con scripts en Bash y Python
+- Despliegue de servicios en Docker
+- Configuración y segmentación de redes
+- Proyectos personales de laboratorio para mi portafolio
+
+---
+
+### Proyectos destacados
+
+- Próximamente...
+
+---
+
+### Contacto
+
+- Email: hectorpdsec@gmail.com
